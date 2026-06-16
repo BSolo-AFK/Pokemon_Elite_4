@@ -4,7 +4,7 @@ Submitted by: **Borys Solorzano**
 
 About this web app: **A list-based web app showcasing a six-Pokémon team built to take on the Elite Four. The home page displays each team member as a type-colored card, and clicking a card opens a detailed view with that Pokémon's full stat sheet and its role on the team.**
 
-Time spent: **3** hours
+Time spent: **4** hours
 
 ## Required Features
 
@@ -16,7 +16,7 @@ The following **required** functionality is completed:
 - [x] **The web app displays at least five unique list items, each with at least three displayed attributes (such as title, text, and image)**
 - [x] **The user can click on each item in the list to see a detailed view of it, including all database fields**
   - [x] **Each detail view should be a unique endpoint, such as as `localhost:3000/pokemon/blaziken` and `localhost:3000/pokemon/gengar`**
-  - [ ] *Note: When showing this feature in the video walkthrough, please show the unique URL for each detailed view. We will not be able to give points if we cannot see the implementation*
+  - [x] *Note: When showing this feature in the video walkthrough, please show the unique URL for each detailed view. We will not be able to give points if we cannot see the implementation*
 - [x] **The web app serves an appropriate 404 page when no matching route is defined**
 - [x] **The web app is styled using Picocss**
 
@@ -34,7 +34,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented required features:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='./data/Borys_Solorzano_Elite_4.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ...  Add GIF tool here
