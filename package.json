@@ -1,0 +1,14 @@
+{
+  "name": "pokedex-elite-four",
+  "version": "1.0.0",
+  "description": "WEB103 Project 1 - a Listicle web app: the team to beat the Elite Four",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "node --watch index.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
